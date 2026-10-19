@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">GBressa — ferramentas e integrações</title>
+  <desc id="desc">Banner azul escuro com linhas de conexão, formas geométricas e o nome GBressa.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1">
+      <stop offset="0" stop-color="#10182d"/>
+      <stop offset="1" stop-color="#1b2c4c"/>
+    </linearGradient>
+    <linearGradient id="accent" x2="1" y2="0">
+      <stop offset="0" stop-color="#80d9c4"/>
+      <stop offset="1" stop-color="#e7c586"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#bed2ed" stroke-opacity=".07"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="300" rx="20" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="20" fill="url(#grid)"/>
+  <g fill="none" stroke="url(#accent)" stroke-width="2" opacity=".65">
+    <path d="M860 74h96l40 42h94M800 156h132l46 44h158M898 250h78l28-29h84"/>
+    <circle cx="856" cy="74" r="7" fill="#80d9c4"/>
+    <circle cx="800" cy="156" r="7" fill="#80d9c4"/>
+    <circle cx="894" cy="250" r="7" fill="#e7c586"/>
+    <circle cx="1090" cy="116" r="7" fill="#e7c586"/>
+    <circle cx="1136" cy="200" r="7" fill="#e7c586"/>
+  </g>
+  <rect x="62" y="56" width="6" height="186" rx="3" fill="url(#accent)"/>
+  <text x="94" y="143" fill="#f5f7fc" font-family="Segoe UI, Arial, sans-serif" font-size="72" font-weight="700" letter-spacing="-2">GBressa</text>
+  <text x="98" y="191" fill="#c9d8ed" font-family="Segoe UI, Arial, sans-serif" font-size="23" letter-spacing="1">FERRAMENTAS  /  INTEGRAÇÕES  /  AUTOMAÇÃO</text>
+</svg>
