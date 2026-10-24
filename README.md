@@ -2,10 +2,6 @@
 
 # Olá, eu sou Guilherme Bressan.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=GBressa&label=Profile views&color=0e75b6&style=flat" alt="GBressa" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=GBressa" alt="GBressa" /></a> </p>
-
 Crio ferramentas que simplificam tarefas do dia a dia e conectam serviços. Gosto de projetos com utilidade prática, documentação clara e interfaces que ajudam a entender o que está acontecendo.
 
 ## Projetos e explorações
